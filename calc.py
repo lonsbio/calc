@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 """
-A dimple calculator pakache in python
-
-Take any number of arguments and add them as integers
+A simple calculator package in python
 
 """
 import sys
