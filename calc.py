@@ -12,4 +12,5 @@ if __name__ == '__main__':
 		print sum(nums)
 	elif command == 'multiply':
 		print reduce(lambda x, y: x * y, nums)
-
+	elif command == 'divide':
+		print reduce(lambda x, y: x / y, nums)
